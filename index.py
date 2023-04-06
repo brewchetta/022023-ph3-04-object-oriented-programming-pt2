@@ -3,7 +3,6 @@ from classes.big_cat import BigCat
 from classes.lion import Lion
 from classes.tiger import Tiger
 
-a1 = Animal(name="Bob the raccoon")
-a2 = BigCat(name="Fluffy")
-a3 = Lion(name="Simba")
-a4 = Tiger(name="Tony")
+# bc1 = BigCat('Teddy', 'Bob the raccoon')
+
+l1 = Lion('Bill', 'a hamster', 'BIG')
